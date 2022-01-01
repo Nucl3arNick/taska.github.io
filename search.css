@@ -1,0 +1,126 @@
+/*Google Search*/
+
+
+.links{
+    text-align: right;
+    padding: 4px;
+    margin: 5px;
+    margin-top: 0;
+    padding-top: 30px; 
+}
+
+
+
+.links_style{
+    color: black;
+    align-items: center;
+    margin: 5px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+
+}
+
+
+
+.links button{
+    background-color: #0080ff;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+
+
+.logo{
+    text-align: center;
+    padding-top: 200px; 
+}
+
+.logo img{
+    width: 100%;
+    max-width: 500px;
+    border-radius: 359px;
+}
+
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(120, 0, 200, 0.808);
+}
+
+.search_bar{
+    outline: none;
+    font-size: 50px;
+    padding-left: 25px;
+    width: 800px;
+    height: 120px;
+    border: 0px solid #ddd;
+    border-radius: 45px;
+    margin: 30px 0;
+}
+
+.search_bar:hover {
+    box-shadow: 0 0 5px  rgba(0,0,0, 2);
+}
+
+
+.buttons{
+    background-color: #0080ff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    font-weight: bold;
+    margin-top: 50px;
+    border-radius: 45px;
+    box-shadow: 0 0 100px  rgba(245, 244, 244, 0.2);
+}
+
+
+
+
+@media  (max-width: 599px){
+    .search_bar{
+        width: 300px;
+        height: 34px;
+    }
+
+    .links_style{
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 5px;
+    }
+
+    .links{
+        text-align: right;
+        padding: 4px;
+        margin: 5px;
+        padding-top: 30px; 
+        
+    }
+
+    .links button{
+        font-weight: bold;
+        font-size: 12px;
+        width: 70px;
+        height: 30px;
+        margin: 0px;
+        border-radius: 5px;
+    }
+
+}
+
+
+

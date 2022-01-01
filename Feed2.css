@@ -1,0 +1,424 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.feed2-group {
+  display: flex;
+  flex-direction: column;
+  background-color: #dbdbdb; }
+
+.feed2-group.layout {
+  position: relative;
+  flex-grow: 1; }
+
+.feed2-group1 {
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25098); }
+
+.feed2-group1.layout {
+  position: relative; }
+
+.feed2-flex {
+  display: flex; }
+
+.feed2-flex.layout {
+  position: relative;
+  flex-grow: 1;
+  margin: 13px 30px; }
+
+.feed2-icon1 {
+  background: var(--src) center center/contain no-repeat; }
+
+.feed2-icon1.layout {
+  flex: 0 1 25px;
+  height: 24px;
+  width: 25px;
+  min-width: 25px; }
+
+.feed2-flex-spacer {
+  flex: 1 1 304px; }
+
+.feed2-group2 {
+  display: flex; }
+
+.feed2-group2.layout {
+  position: relative; }
+
+.feed2-cover-group1-wrap {
+  display: flex; }
+
+.feed2-cover-group1-wrap.layout {
+  position: relative;
+  width: 356px;
+  min-width: 356px;
+  margin: 0px auto; }
+
+.feed2-cover-group1 {
+  display: flex;
+  background: var(--src) center center/contain no-repeat; }
+
+.feed2-cover-group1.layout {
+  position: absolute;
+  min-height: 200px;
+  width: 157px;
+  min-width: 157px;
+  inset: 17px auto 0px 0px; }
+
+.feed2-cover-group {
+  display: flex;
+  background-color: rgba(96, 96, 96, 0.403);
+  border-radius: 8px 8px 8px 8px; }
+
+.feed2-cover-group.layout {
+  position: relative;
+  min-height: 30px;
+  width: 19.11%;
+  margin: 160px 7.64% 10px 73.25%; }
+
+.feed2-icon {
+  background: var(--src) center center/contain no-repeat; }
+
+.feed2-icon.layout {
+  height: 20px;
+  width: 20px;
+  min-width: 20px;
+  margin: 5px; }
+
+.feed2-cover-group1.layout1 {
+  position: relative;
+  min-height: 200px;
+  width: 157px;
+  min-width: 157px;
+  margin: 17px 0px 0px 199px; }
+
+.feed2-group3 {
+  display: flex; }
+
+.feed2-group3.layout {
+  position: relative; }
+
+.feed2-highlights-wrap {
+  display: flex; }
+
+.feed2-highlights-wrap.layout {
+  position: relative;
+  width: 356px;
+  min-width: 356px;
+  margin: 0px auto; }
+
+.feed2-highlights {
+  font: 16px/1.2 "Nunito Sans", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px; }
+
+.feed2-highlights.layout {
+  position: absolute;
+  flex-grow: 1;
+  inset: 10px 0px 0px; }
+
+.feed2-highlights1 {
+  display: flex;
+  justify-content: flex-end;
+  font: 16px/1.2 "Nunito Sans", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px; }
+
+.feed2-highlights1.layout {
+  width: 196px;
+  min-width: 196px;
+  margin: 10px 0px 0px 80px; }
+
+.feed2-group4 {
+  display: flex; }
+
+.feed2-group4.layout {
+  position: relative; }
+
+.feed2-text-body-wrap {
+  display: flex; }
+
+.feed2-text-body-wrap.layout {
+  position: relative;
+  width: 356px;
+  min-width: 356px;
+  margin: 0px auto; }
+
+.feed2-text-body {
+  font: 700 14px/1.2 "Nunito Sans", Helvetica, Arial, serif;
+  color: #313131;
+  letter-spacing: 0px; }
+
+.feed2-text-body.layout {
+  position: absolute;
+  flex-grow: 1;
+  inset: 4px 0px 0px; }
+
+.feed2-text-body1 {
+  display: flex;
+  justify-content: flex-end;
+  font: 700 14px/1.2 "Nunito Sans", Helvetica, Arial, serif;
+  color: #313131;
+  text-align: right;
+  letter-spacing: 0px; }
+
+.feed2-text-body1.layout {
+  width: 150px;
+  min-width: 150px;
+  margin: 4px 0px 0px 103px; }
+
+.feed2-box1 {
+  background-color: #f1f1f1; }
+
+.feed2-box1.layout {
+  height: 4px;
+  margin: 24px 12px 0px; }
+
+.feed2-group5 {
+  display: flex; }
+
+.feed2-group5.layout {
+  position: relative; }
+
+  
+.feed2-cover-group1.layout2 {
+  position: absolute;
+  min-height: 200px;
+  width: 157px;
+  min-width: 157px;
+  inset: 51px auto 0px 0px; }
+
+.feed2-cover-group1.layout3 {
+  position: relative;
+  min-height: 200px;
+  width: 157px;
+  min-width: 157px;
+  margin: 51px 0px 0px 199px; }
+
+.feed2-group6 {
+  display: flex; }
+
+.feed2-group6.layout {
+  position: relative; }
+
+.feed2-highlights2 {
+  display: flex;
+  justify-content: flex-end;
+  font: 16px/1.2 "Nunito Sans", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px; }
+
+.feed2-highlights2.layout {
+  width: 196px;
+  min-width: 196px;
+  margin: 10px auto 0px; }
+
+.feed2-group7 {
+  display: flex; }
+
+.feed2-group7.layout {
+  position: relative; }
+
+.feed2-text-body2 {
+  display: flex;
+  justify-content: flex-end;
+  font: 700 14px/1.2 "Nunito Sans", Helvetica, Arial, serif;
+  color: #313131;
+  text-align: right;
+  letter-spacing: 0px; }
+
+.feed2-text-body2.layout {
+  width: 150px;
+  min-width: 150px;
+  margin: 4px auto 0px; }
+
+.feed2-box1.layout1 {
+  height: 4px;
+  margin: 24px 12px 220px; }
+
+
+/* fonts.css */
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
+@font-face {
+  font-family: "FontAwesome";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?v=4.3.0");
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0")
+      format("embedded-opentype"),
+    url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0")
+      format("woff2"),
+    url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff?v=4.3.0")
+      format("woff"),
+    url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf?v=4.3.0")
+      format("truetype"),
+    url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular")
+      format("svg");
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, hr, p, figure {
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0;
+    border-width: 0;
+}
+
+ul, ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: block;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@media (max-width: 99999px) {
+    .max\:show {
+        display: flex;
+    }
+
+    .xxxl\:show {
+        display: none;
+    }
+
+    .xxl\:show {
+        display: none;
+    }
+
+    .xl\:show {
+        display: none;
+    }
+
+    .lg\:show {
+        display: none;
+    }
+
+    .md\:show {
+        display: none;
+    }
+
+    .sm\:show {
+        display: none;
+    }
+
+    .xs\:show {
+        display: none;
+    }
+
+    .max\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 2999.98px) {
+    .xxxl\:show {
+        display: flex;
+    }
+
+    .xxxl\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 1919.98px) {
+    .xxl\:show {
+        display: flex;
+    }
+
+    .xxl\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 1399.98px) {
+    .xl\:show {
+        display: flex;
+    }
+
+    .xl\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .lg\:show {
+        display: flex;
+    }
+
+    .lg\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .md\:show {
+        display: flex;
+    }
+
+    .md\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .sm\:show {
+        display: flex;
+    }
+
+    .sm\:hide {
+        display: none;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .xs\:show {
+        display: flex;
+    }
+
+    .xs\:hide {
+        display: none;
+    }
+}
+
+.headroom {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+
+.headroom--pinned {
+    transform: translateY(0%);
+}
+
+.headroom--unpinned {
+    transform: translateY(-100%);
+}
